@@ -21,7 +21,18 @@
     <img src="prueba7.png">
 <li>Combrueba el estado del repo</li>
     <img src="8.png">
-<li></li>
+<li>Realiza un commit con tu nombre y apellidos</li>
+    git commit -m "Juan Jose Lozano Martinez"
+    git push
+<li>Crea dos ramas diferentes</li>
+    git branch dev1
+    git branch dev2
+<li>Muevete a dev1</li>
+    git checkout dev1
+<li>Muevete a dev2</li>
+    git checkout dev2
+
+
 
 </ul>
 
