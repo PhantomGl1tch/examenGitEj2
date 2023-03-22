@@ -11,6 +11,17 @@
     <img src="3.png">
 <li>Comprueba cuantas ramas tiene el repositorio y en cual te encuentras</li>
     <img src="4.png">
+<li>Realizar un commit de los últimos cambios con el mensaje “Primer commit del examen” y ver el estado del repositorio.</li>
+    <img src="5.png">
+<li>Lista todos los commits que has realizado</li>
+    "Innitial commit" | "Primer commit del examen" <br>
+    <img src="6.png">
+<li>Realiza un cambio en alguno de los archivos del proyecto</li>
+    <img src="7.png"><br>
+    <img src="prueba7.png">
+<li>Combrueba el estado del repo</li>
+    <img src="8.png">
+<li></li>
 
 </ul>
 
